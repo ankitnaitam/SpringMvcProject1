@@ -1,1 +1,1 @@
-# SpringMvcWithHibernate
+# SpringMvcFirstApp
